@@ -1,0 +1,11 @@
+.todo-item input {
+	float: left;
+}
+.todo-item p {
+	margin-left: 25px;
+}
+
+.todo-item {
+	margin-bottom: 25px;
+	width: 20%;
+}
