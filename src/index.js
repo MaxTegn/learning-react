@@ -14,6 +14,8 @@ import ReactDOM from 'react-dom';
 //import App from './FetchDataFromAPI/App';
 //import App from './FormsPart1/App';
 //import App from './FormsPractice/App';
-import App from './FormsPractice/AppSolution';
+//import App from './FormsPractice/AppSolution';
+//import App from './ContainerArchitecture/App';
+import App from './MemeGenerator/App';
 
 ReactDOM.render(<App />, document.getElementById('root'));
