@@ -10,6 +10,10 @@ import ReactDOM from 'react-dom';
 //import App from './LifecycleMethods/App';
 //import App from './ConditionalRendering/App';
 //import App from './ConditionalRendering2/App';
-import App from './ConditionalRenderingPractice/App';
+//import App from './ConditionalRenderingPractice/App';
+//import App from './FetchDataFromAPI/App';
+//import App from './FormsPart1/App';
+//import App from './FormsPractice/App';
+import App from './FormsPractice/AppSolution';
 
 ReactDOM.render(<App />, document.getElementById('root'));
